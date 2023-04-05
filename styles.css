@@ -1,0 +1,52 @@
+img{
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  
+}
+
+.img-div{
+  background-color: white;
+  text-align: center;
+  margin-right: 30px;
+  margin-left: 30px;
+  padding-bottom: 20px;
+}
+header{
+  text-align:center;
+}
+
+.chamada{
+  margin: 3px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.chamade{
+  text-align: center;
+  font-size:20px;
+}
+ 
+
+.chamado{
+  font-weight: 700px;
+  text-align: center;
+  font-size: xx-large;
+}
+main{
+  background-color: #C0C0C0;
+}
+
+
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li{
+  margin: 16px 0;
+  font-size:20px;
+}
